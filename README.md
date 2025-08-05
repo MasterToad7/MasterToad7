@@ -1,4 +1,4 @@
-## Hi there 👋
+I believe that even if your job may not even come close to the title of a programmer, coding can still be used to aid your every day life. So, I have decided to share either my hobbie projects or code I made to accomplish mundane tasks in hopes it will either peak your intrest or help prevent a headache. 
 
 <!--
 **MasterToad7/MasterToad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
